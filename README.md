@@ -15,3 +15,4 @@
 
 ## Beurten
 (1) Ik raad: A (Fout)
+(2) Ik raad: E
