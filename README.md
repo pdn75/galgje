@@ -6,12 +6,12 @@
 
 |1|2|3|4|5|6|7|8|
 
-|-|-|-|-|-|-|-|-|
+|a|-|-|-|-|-|-|-|
 
 
 
 ## Score
-![gallow](./images/1.png)
+![gallow](./images/2.png)
 
 ## Beurten
-(1) Ik raad: A
+(1) Ik raad: A (Fout)
