@@ -2,13 +2,14 @@
 
 ## Te raden woord
 
-|f|o|r|t|n|i| |e|
+|f|o|r|t|n|i|t|e|
 
 |1|2|3|4|5|6|7|8|
 
 |a|u|-|-|-|-|-|-|
 
-
+### Woord
+Fortnite
 
 ## Score
 ![gallow](./images/3.png)
@@ -23,7 +24,7 @@
 (4) Ik Raad: F (Goed)
 
 (5) Ik raad: O (Goed)
-
+ 
 (6) Ik raad: R (Goed)
 
 (7) Ik raad: T (Goed)
@@ -32,4 +33,4 @@
 
 (9) Ik raad: I (Goed)
 
-(10) Ik raad: T
+(10) Ik raad: T (Goed)
