@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-| | | | | | | |e|
+|f| | | | | | |e|
 
 |1|2|3|4|5|6|7|8|
 
@@ -20,4 +20,4 @@
 
 (3) Ik raad: U (Fout)
 
-(4) Ik Raad: F
+(4) Ik Raad: F (Goed)
