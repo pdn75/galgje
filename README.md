@@ -14,3 +14,4 @@
 ![gallow](./images/1.png)
 
 ## Beurten
+(1) Ik raad: A
