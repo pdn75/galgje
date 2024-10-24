@@ -23,3 +23,5 @@
 (4) Ik Raad: F (Goed)
 
 (5) Ik raad: O (Goed)
+
+(6) Ik raad: R
