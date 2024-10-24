@@ -25,3 +25,5 @@
 (5) Ik raad: O (Goed)
 
 (6) Ik raad: R (Goed)
+
+(7) Ik raad: T
