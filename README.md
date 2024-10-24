@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|f|o|r|t| | | |e|
+|f|o|r|t|n| | |e|
 
 |1|2|3|4|5|6|7|8|
 
@@ -28,4 +28,4 @@
 
 (7) Ik raad: T (Goed)
 
-(8) Ik raad: N
+(8) Ik raad: N (Goed)
